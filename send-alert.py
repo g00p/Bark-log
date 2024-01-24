@@ -4,7 +4,7 @@ import smtplib
 from functions import *
 
 gmail_user = 'barklogalerts@gmail.com'
-gmail_password = 'yeR2Xb8JmHbJ'
+gmail_password = 'FUCK YOU'
 
 
 #create email text
